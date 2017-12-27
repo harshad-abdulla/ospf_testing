@@ -1,6 +1,8 @@
 from netmiko_fun import *
 
-net_connect = connect_device('192.168.122.72','david','cisco')
+device = get_device("device.json")
+
+net_connect = connect_device(device)
 
 print "Configuring interface..."
 
