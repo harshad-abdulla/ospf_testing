@@ -1,0 +1,9 @@
+{
+  "username": "test",
+  "verbose": false,
+  "ip": "10.10.10.10",
+  "secret": "secret",
+  "device_type": "cisco_ios",
+  "password": "password",
+  "port": 8022
+}
