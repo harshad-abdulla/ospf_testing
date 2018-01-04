@@ -1,0 +1,11 @@
+"Device_count" : "2"
+"Device1" :
+    "device_type": "cisco_ios"
+    "ip": "10.0.0.2"
+    "username": "david"
+    "password": "cisco"
+"Device2" :
+    "device_type": "cisco_ios"
+    "ip": "10.0.0.3"
+    "username": "david"
+    "password": "cisco"
